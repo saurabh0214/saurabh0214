@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saurabh Ranjan</h1>
-<h3 align="center">Civil Engineer, Research enthusiast ( Environmental Engineering ) and avid learner, Video Editor, Web Developer, Python Developer, AI & ML, Data Analyst, Generative AI, Expert in various Civil Engineering Software</h3>
+<h3 align="center">well-versed in Civil Engineering, Research(Env.Engg.), Video Editiing, Data Analytics, Full-stack Development, Python Development including cutting edge frameworks and libraries, which allows me to implement interactive features. Additionally, I have experirence working with MATLAB & QGIS, Also having Knowledge of Remote Sensing and GIS.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabh0214&label=Profile%20views&color=0e75b6&style=flat" alt="saurabh0214" /> </p>
 
@@ -8,6 +8,10 @@
 - 🔭 I’m currently working on **SWM Projects**
 
 - 🌱 I’m currently learning **Python, ML, Ai**
+
+- 🛠️ Expertiesing in environmental modelling: MATLAB, QGIS, R-STUDIO
+
+- 🌍 Building powerful web-based GIS solutions to visualize and analyze spatial data.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
